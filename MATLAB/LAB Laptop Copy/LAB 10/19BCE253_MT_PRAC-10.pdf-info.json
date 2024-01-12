@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2021-11-24T11:54:22Z",
+  "last_modified_by_me": "2021-11-24T11:54:22Z",
+  "content_last_modified": "2021-11-24T11:54:22Z",
+  "created": "2022-02-26T14:46:50.468Z",
+  "permissions": [
+    {
+      "id": "00170220996565211160",
+      "name": "SHAH KANISHA",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/AGNmyxZ7X7GainDLPsl0xXA1YXrG_Nnkmp1cx7pbbNxgWRU=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/13iFKF99qyQCM-6ud6LWI1bNeR0uEy4qY/permissions/00170220996565211160",
+      "email_address": "19bce253@nirmauni.ac.in",
+      "domain": "nirmauni.ac.in",
+      "etag": "\"LX48LmlRX3nCTWPLkbFB_xV9prk\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "19BCE253_MT_PRAC-10.pdf",
+  "mime_type": "application/pdf"
+}

@@ -1,0 +1,50 @@
+TRAFFIC CONTROL USING IMAGE PROCESSING
+
+ 
+
+function new_Callback(hObject, eventdata, handles)
+
+% hObject handle to new (see GCBO)
+% eventdata reserved - to be defined in a future version of MATLAB
+
+% handles _ structure with handles and user data (see GUIDATA)
+
+ 
+
+function target_Callback(hObject, eventdata, handles)
+% hObject handle to target (see GCBO)
+% eventdata reserved - to be defined in a future version of MATLAB
+
+% handles — structure with handles and user data (see GUIDATA)
+
+file = uigetfile(* jpg’);
+if ~isequal(file, 0)
+p=imread (file);
+
+subplot(2,2,2),imshow(p);title(Captured Image’);
+handles.XX = p;
+guidata(hObject,handles);
+
+end
+
+ 
+
+function Untitled_2_Callback(hObject, eventdata, handles)
+
+% hObject handle to Untitled_2 (see GCBO)
+% eventdata reserved - to be defined in a future version of MATLAB
+
+% handles _ structure with handles and user data (see GUIDATA)
+
+Spam
+
+ 
+
+ 
+
+function Untitled_1_Callback(hObject, eventdata, handles)
+% hObject handle to Untitled_1 (see GCBO)
+
+| 39
+NATIONAL INSTITUTE OF TECHNOLOGY SRINAGAR
+

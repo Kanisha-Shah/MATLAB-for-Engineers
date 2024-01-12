@@ -1,0 +1,8 @@
+function [probab] = Attack (success)
+fail = 1- success;
+probab =  nCr(3)* power(success,3) * power(fail,2);
+end
+
+function C = nCr(n,r)
+C = (factorial(n)/(factorial(n-r) * factorial(r)));
+end

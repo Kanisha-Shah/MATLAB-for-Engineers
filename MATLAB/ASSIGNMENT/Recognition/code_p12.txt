@@ -1,0 +1,11 @@
+function result1_CreateFcn(hObject, eventdata, handles)
+
+if ispc && isequal(get(hObject,' BackgroundColor'), get(0,'defaultUicontrolBackgroundColor’))
+ set(hObject,'BackgroundColor','white');
+end
+ 
+function help_Callback(hObject, eventdata, handles)
+
+function figure1_ResizeFcn(hObject, eventdata, handles)
+
+function figure1_CloseRequestFcn(hObject, eventdata, handles)

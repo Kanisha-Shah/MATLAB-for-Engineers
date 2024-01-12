@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2021-11-22T08:14:13Z",
+  "last_modified_by_me": "2021-11-22T08:14:13Z",
+  "content_last_modified": "2021-11-22T08:14:13Z",
+  "created": "2022-02-26T14:43:14.995Z",
+  "permissions": [
+    {
+      "id": "00170220996565211160",
+      "name": "SHAH KANISHA",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/AGNmyxZ7X7GainDLPsl0xXA1YXrG_Nnkmp1cx7pbbNxgWRU=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1Ilv09vIcSJ06l3o_UZqqGXijKx3UP8xU/permissions/00170220996565211160",
+      "email_address": "19bce253@nirmauni.ac.in",
+      "domain": "nirmauni.ac.in",
+      "etag": "\"DOHwNa55m8QJ5VL9HCgPeKP9SXU\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "prac9_q4.m",
+  "mime_type": "text/plain"
+}

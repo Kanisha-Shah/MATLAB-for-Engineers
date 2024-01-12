@@ -1,0 +1,69 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2021-10-24T14:21:05Z",
+  "last_modified_by_me": "2021-10-24T14:21:05Z",
+  "content_last_modified": "2021-10-24T14:21:05Z",
+  "created": "2022-02-26T14:44:04.455Z",
+  "permissions": [
+    {
+      "id": "13588123076368037828",
+      "name": "SHETH KAHAN",
+      "type": "user",
+      "role": "writer",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/default-user=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1_anAkEpUdqRysf_CbvdZV07JYFTxbIe3/permissions/13588123076368037828",
+      "email_address": "19bce265@nirmauni.ac.in",
+      "domain": "nirmauni.ac.in",
+      "etag": "\"ACge7obGNm9TXpfM8dtK5WN5JMQ\"",
+      "deleted": false,
+      "pending_owner": false
+    },
+    {
+      "id": "07513864143771238273",
+      "name": "SHAH PRANSHU",
+      "type": "user",
+      "role": "writer",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/default-user=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1_anAkEpUdqRysf_CbvdZV07JYFTxbIe3/permissions/07513864143771238273",
+      "email_address": "19bce256@nirmauni.ac.in",
+      "domain": "nirmauni.ac.in",
+      "etag": "\"onHMLWjYU8l066xeoVdqJBCnGM4\"",
+      "deleted": false,
+      "pending_owner": false
+    },
+    {
+      "id": "00559782985657481193",
+      "name": "PATEL KUSHAL",
+      "type": "user",
+      "role": "reader",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/default-user=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1_anAkEpUdqRysf_CbvdZV07JYFTxbIe3/permissions/00559782985657481193",
+      "email_address": "19bch043@nirmauni.ac.in",
+      "domain": "nirmauni.ac.in",
+      "etag": "\"wsXJPEhqyU79Z8vA_yO3EF899cs\"",
+      "deleted": false,
+      "pending_owner": false
+    },
+    {
+      "id": "00170220996565211160",
+      "name": "SHAH KANISHA",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/AGNmyxZ7X7GainDLPsl0xXA1YXrG_Nnkmp1cx7pbbNxgWRU=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1_anAkEpUdqRysf_CbvdZV07JYFTxbIe3/permissions/00170220996565211160",
+      "email_address": "19bce253@nirmauni.ac.in",
+      "domain": "nirmauni.ac.in",
+      "etag": "\"Amq9fnFHPqdfbHB4TEPLUWdcP-U\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "code_p7.doc",
+  "mime_type": "application/msword"
+}

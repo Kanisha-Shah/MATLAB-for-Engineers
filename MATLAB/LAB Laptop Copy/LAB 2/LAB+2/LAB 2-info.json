@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2022-02-26T14:41:46.952Z",
+  "last_modified_by_me": "2022-02-26T14:41:46.952Z",
+  "content_last_modified": "2022-02-26T14:41:46.952Z",
+  "created": "2022-02-26T14:41:47.402Z",
+  "permissions": [
+    {
+      "id": "00170220996565211160",
+      "name": "SHAH KANISHA",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/AGNmyxZ7X7GainDLPsl0xXA1YXrG_Nnkmp1cx7pbbNxgWRU=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1y2Nf2GCd7-vhIPf4CopOQHVyTyZmgOhj/permissions/00170220996565211160",
+      "email_address": "19bce253@nirmauni.ac.in",
+      "domain": "nirmauni.ac.in",
+      "etag": "\"lUvq2hiBJtCntlG5Am4Zq4dqvR8\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "LAB 2",
+  "mime_type": "application/vnd.google-apps.folder"
+}

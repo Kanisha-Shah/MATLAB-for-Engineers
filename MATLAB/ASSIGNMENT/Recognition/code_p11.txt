@@ -1,0 +1,12 @@
+function result_CreateFcn(hObject, eventdata, handles)
+
+if ispc && isequal(get(hObject,'Back groundColor'), get(0,'defaultUicontrolBackgroundColor’))
+set(hObject,'BackgroundColor','white');
+
+end
+
+function pushbutton2_Callback(hObject, eventdata, handles)
+
+function pushbutton3_Callback(hObject, eventdata, handles)
+
+function result1_Callback(hObject, eventdata, handles)

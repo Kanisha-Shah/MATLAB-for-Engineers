@@ -1,0 +1,19 @@
+function new_Callback(hObject, eventdata, handles)
+
+function target_Callback(hObject, eventdata, handles)
+
+file = uigetfile('*.jpg');
+if ~isequal(file, 0)
+p=imread (file);
+
+subplot(2,2,2),imshow(p);title(Captured Image’);
+handles.XX = p;
+guidata(hObject,handles);
+
+end
+
+ 
+
+function Untitled_2_Callback(hObject, eventdata, handles)
+
+function Untitled_1_Callback(hObject, eventdata, handles)

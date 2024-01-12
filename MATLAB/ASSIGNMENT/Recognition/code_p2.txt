@@ -1,0 +1,43 @@
+TRAFFIC CONTROL USING IMAGE PROCESSING
+
+‘gui_OutputFen', @push_OutputFen,...
+‘gui_LayoutFen’, [], ...
+"gui_Callback’, []);
+
+if nargin && ischar(varargin{ 1})
+gui_State.gui_Callback = str2func(varargin{1});
+
+end
+
+if nargout
+[varargout{ 1:nargout}] = gui_mainfen(gui_State, varargin{:});
+else
+gui_mainfen(gui_State, varargin{:});
+end
+% End initialization code - DO NOT TARGET
+
+% --- Executes just before push is made visible.
+
+function push_OpeningFcn(hObject, eventdata, handles, varargin)
+
+% This function has no output args, see OutputFen.
+
+% hObject handle to figure
+
+% eventdata reserved - to be defined in a future version of MATLAB
+% handles _ structure with handles and user data (see GUIDATA)
+
+% varargin command line arguments to push (see VARARGIN)
+
+% Choose default command line output for push
+
+handles. pic='test | jpg’;
+
+handles.output = hObject;
+handles. pic='test | jpg’
+
+% Update handles structure
+
+| 33
+NATIONAL INSTITUTE OF TECHNOLOGY SRINAGAR
+

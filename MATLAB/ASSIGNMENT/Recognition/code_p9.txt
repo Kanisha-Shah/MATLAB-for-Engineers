@@ -1,0 +1,16 @@
+function about_Callback(hObject, eventdata, handles)
+
+msgbox(‘This script file is a part of our project Image Processing based Intelligent Traffic
+Control Systems (IPITCS) and has been developed by Amber Deep Singh, Abdul Hadi
+Parwana and Kamran Shahid Baig under the able guidance of Mrs. Farida Khurshid,
+Department of Electronics and Communication, National Institue of Technology Srinagar.');
+
+ 
+
+function Untitled_S_Callback(hObject, eventdata, handles)
+ 
+
+function Untitled_6_Callback(hObject, eventdata, handles)
+ 
+
+function howto_Callback(hObject, eventdata, handles)

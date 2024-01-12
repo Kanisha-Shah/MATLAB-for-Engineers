@@ -1,0 +1,30 @@
+matched_data = 0;
+white_points = 0;
+black_points = 0;
+x=0;
+y=0;
+l=0;
+m=0;
+ 
+
+
+for a = 1:1:300
+ for b = 1:1:300
+  if(edge_det_k(a,b)==1)
+    white_points = white_points+1,;
+  else
+    black_points = black_points+1;
+  end
+ end
+end
+display('matching...');
+
+for i = 1:1:300
+ for j = 1:1:300
+   if(edge_det_k(i,j)==1)&(edge_det_p(i,j)==1)
+     matched_data = matched_data+1;
+   else
+	;
+   end
+ end
+end

@@ -1,0 +1,21 @@
+else
+total_matched_percentage
+OUTPUT_MESSAGES
+display(OUTPUT_MESSAGES),
+set(handles.result1 ,'String',OUTPUT_MESSAGEs),
+
+end
+ 
+
+function source_Callback(hObject, eventdata, handles)
+
+file = uigetfile('* jpg');
+if ~isequal(file, 0)
+k=imread (file);
+handles. YY =k;
+z=k;
+guidata(hObject,handles);
+
+subplot(2,2,1),imshow(k);title(‘Reference Image’);
+
+end

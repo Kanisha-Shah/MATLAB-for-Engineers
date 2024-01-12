@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2022-02-16T17:49:10Z",
+  "last_modified_by_me": "2022-02-16T17:49:10Z",
+  "content_last_modified": "2022-02-16T17:49:10Z",
+  "created": "2022-02-26T14:43:22.120Z",
+  "permissions": [
+    {
+      "id": "00170220996565211160",
+      "name": "SHAH KANISHA",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/AGNmyxZ7X7GainDLPsl0xXA1YXrG_Nnkmp1cx7pbbNxgWRU=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1S7nekdV4L4buxQGwIOHmZ6qktthVgnTl/permissions/00170220996565211160",
+      "email_address": "19bce253@nirmauni.ac.in",
+      "domain": "nirmauni.ac.in",
+      "etag": "\"Fk3Gzk1BUOqAD1aoebpEeHQnu1A\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "19BCE253_PRAC-3.pdf",
+  "mime_type": "application/pdf"
+}

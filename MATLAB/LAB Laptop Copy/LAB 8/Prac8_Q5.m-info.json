@@ -1,0 +1,27 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2021-10-30T09:11:35Z",
+  "last_modified_by_me": "2021-10-30T09:11:35Z",
+  "content_last_modified": "2021-10-30T09:11:35Z",
+  "created": "2022-02-26T14:43:16.817Z",
+  "permissions": [
+    {
+      "id": "00170220996565211160",
+      "name": "SHAH KANISHA",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/AGNmyxZ7X7GainDLPsl0xXA1YXrG_Nnkmp1cx7pbbNxgWRU=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1KcNB5UZScjYzbqBBq5v80_5yR0t7XCTW/permissions/00170220996565211160",
+      "email_address": "19bce253@nirmauni.ac.in",
+      "domain": "nirmauni.ac.in",
+      "etag": "\"Hm-8CQcW8139QK4pDpD_khnWH9Q\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "Prac8_Q5.m",
+  "mime_type": "text/plain"
+}
